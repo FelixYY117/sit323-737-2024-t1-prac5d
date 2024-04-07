@@ -1,0 +1,8 @@
+{"level":"info","message":"Parameter 91 received for square root","service":"calculate-service"}
+{"level":"info","message":"Parameter 81 received for square root","service":"calculate-service"}
+{"level":"info","message":"Parameter 256 received for square root","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 256 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 256 and 2 received for exponentiation","service":"calculate-service"}
+{"level":"error","message":"Invalid parameters for modulo operation","service":"calculate-service"}
+{"level":"error","message":"Invalid parameters for modulo operation","service":"calculate-service"}
+{"level":"info","message":"Parameters 256 and 6 received for modulo operation","service":"calculate-service"}
