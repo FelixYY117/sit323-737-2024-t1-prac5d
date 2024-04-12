@@ -6,3 +6,4 @@
 {"level":"error","message":"Invalid parameters for modulo operation","service":"calculate-service"}
 {"level":"error","message":"Invalid parameters for modulo operation","service":"calculate-service"}
 {"level":"info","message":"Parameters 256 and 6 received for modulo operation","service":"calculate-service"}
+{"level":"info","message":"Parameters 786 and 123 received for addition","service":"calculate-service"}

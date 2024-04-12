@@ -1,0 +1,6 @@
+version: "3"
+services:
+  web:
+    image: felixyy123/nodewebapp:1.1.1
+    ports:
+      - "3040:3040"
